@@ -1,7 +1,3 @@
-Here's a suggested README structure for your GitHub repository, specifically tailored for the **Infotute** project:
-
----
-
 # Infotute: Revolutionizing Educational Management
 
 ## Overview
